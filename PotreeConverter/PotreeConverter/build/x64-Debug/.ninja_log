@@ -1,0 +1,13 @@
+# ninja log v5
+21	987	566741554	CMakeFiles/PotreeConverter.dir/src/PointAttributes.obj	72365d69459b77b2
+27	1173	566741554	CMakeFiles/PotreeConverter.dir/src/SparseGrid.obj	3f286e88f25f98c1
+5	1279	566741554	CMakeFiles/PotreeConverter.dir/src/GridCell.obj	8e3680b87631630b
+1	1898	566741555	CMakeFiles/PotreeConverter.dir/src/BINPointReader.obj	3b55ccb36fdb1de
+8	2272	566741555	CMakeFiles/PotreeConverter.dir/src/LASPointWriter.obj	34650268074d36d8
+14	2639	566741555	CMakeFiles/PotreeConverter.dir/src/PTXPointReader.obj	ef523a469de63c86
+17	2740	566741555	CMakeFiles/PotreeConverter.dir/src/LASPointReader.obj	2efe119b96bf9063
+30	2922	566741556	CMakeFiles/PotreeConverter.dir/src/stuff.obj	8a640d4e312c2aac
+24	4215	566741557	CMakeFiles/PotreeConverter.dir/src/PotreeWriter.obj	8f685cafe78499b0
+11	5101	566741558	CMakeFiles/PotreeConverter.dir/src/PotreeConverter.obj	58ad219294096b17
+988	5987	566741559	CMakeFiles/PotreeConverter.dir/src/main.obj	5839ea4a096b3100
+5988	6485	566741559	PotreeConverter.exe	84003a842a15dfd6
