@@ -1,0 +1,21 @@
+# ninja log v5
+10	395	566741462	CMakeFiles/laszip.dir/integercompressor.obj	f9ef157f0dcd761d
+1	421	566741462	CMakeFiles/laszip.dir/arithmeticencoder.obj	7a6c56f2b1f6c4f5
+20	582	566741463	CMakeFiles/laszip.dir/lasreaditemcompressed_v2.obj	b8d9dd8e5f3cc7c1
+26	588	566741463	CMakeFiles/laszip.dir/lasreaditemcompressed_v1.obj	384500ce69e9678c
+4	614	566741463	CMakeFiles/laszip.dir/arithmeticdecoder.obj	728bc755d0c1d76e
+13	630	566741463	CMakeFiles/laszip.dir/arithmeticmodel.obj	2f4ecbdd92b44dae
+30	641	566741463	CMakeFiles/laszip.dir/lasquadtree.obj	43e65c1eebf2c442
+23	941	566741463	CMakeFiles/laszip.dir/lasreaditemcompressed_v3.obj	5e84e983b949af22
+395	976	566741463	CMakeFiles/laszip.dir/laswriteitemcompressed_v2.obj	b053d04f6b1d0a65
+16	1088	566741463	CMakeFiles/laszip.dir/lasinterval.obj	1cee275c4c43f41e
+7	1141	566741463	CMakeFiles/laszip.dir/lasindex.obj	9cd08c93e72f88e8
+588	1286	566741463	CMakeFiles/laszip.dir/laswriteitemcompressed_v1.obj	30ef0207a80179f5
+614	1335	566741463	CMakeFiles/laszip.dir/laswritepoint.obj	288872398857fa1
+583	1522	566741463	CMakeFiles/laszip.dir/lasreadpoint.obj	d6126c5db0141953
+941	1596	566741464	CMakeFiles/laszip.dir/laszip.obj	224f1180e00ba684
+422	1774	566741464	CMakeFiles/laszip.dir/lasunzipper.obj	703e072450fb1f3
+641	1835	566741464	CMakeFiles/laszip.dir/laswriteitemcompressed_v3.obj	9e338090156c47c9
+976	1897	566741464	CMakeFiles/laszip.dir/laszipper.obj	be29f0b66f419845
+631	2264	566741464	CMakeFiles/laszip.dir/laszip_dll.obj	c4b87effb1a8d0f0
+2264	2701	566741465	laszip.dll	1c716cd3cd49a069

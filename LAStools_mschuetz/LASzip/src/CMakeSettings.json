@@ -1,0 +1,17 @@
+﻿{
+  "configurations": [
+    {
+      "name": "x64-Debug",
+      "generator": "Ninja",
+      "configurationType": "RelWithDebInfo",
+      "inheritEnvironments": [
+        "msvc_x64_x64"
+      ],
+      "buildRoot": "C:\\Temp\\LAStools_mschuetz\\LASzip\\build\\\\${name}",
+      "installRoot": "C:\\Temp\\LAStools_mschuetz\\LASzip\\install\\\\${name}",
+      "cmakeCommandArgs": "",
+      "buildCommandArgs": "-v",
+      "ctestCommandArgs": ""
+    }
+  ]
+}
