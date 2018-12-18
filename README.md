@@ -33,3 +33,11 @@ Then:
 3d. close folder
 
 4. execute postbuild.bat
+
+The LAStools, LAStools_mschuetz and PotreeConverter are obtained from the following 3 github repositories:
+
+https://github.com/LAStools/LAStools
+
+https://github.com/m-schuetz/LAStools
+
+https://github.com/potree/PotreeConverter
