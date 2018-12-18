@@ -4,6 +4,10 @@ This repository is configured to suit PotreeConverter compilation using VS2017 C
 
 To compile PotreeConverter.exe together with LASlib.dll and laszip.dll, following the instructions below.
 
+First of all, we assume the respository is named as "Temp" and it is put under C:\
+
+Then:
+
 1a. open ./LAStools/LASlib/src/CMakeLists.txt
 
 1b. edit ./LAStools/LASlib/src/CMakeSettings.json for using "x64-Debug" mode or "x64-Release" mode
